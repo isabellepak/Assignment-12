@@ -1,6 +1,6 @@
 # Module 12: Business Analytics – GreenGrocer Data Analysis
 ## Files Included
-- module12-assignment.py
+module12-assignment.py
 
 ## What I Practiced
 In this assignment, I practiced applying the full analytics spectrum, including descriptive, diagnostic, and predictive analytics. I used Python libraries such as pandas, numpy, and matplotlib to analyze data, create visualizations, and build a basic regression model. I also developed skills in interpreting data, identifying patterns, and translating technical analysis into business insights and recommendations.
